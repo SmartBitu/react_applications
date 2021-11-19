@@ -1,0 +1,40 @@
+.sidespace {
+  margin-right: 15vh;
+  margin-left: 4vh
+}
+
+.maininfo {
+  font-size: 2.5vh;
+}
+.namestyle{
+  font-size : 7vh;
+  font-weight : bold;
+  font-family: Lora, serif;
+  color: #fdd835;
+  margin: 0;
+}
+.card {
+  box-shadow: 0px 10px 10px 0px black;
+  border-radius: 20px;
+}
+.sidespace {
+  margin-right: 15vh;
+  margin-left: 4vh;
+}
+.sidenavmargin{
+  margin-top:12%
+}
+
+.background {
+  background: linear-gradient(75deg, #fdd835 21%, #111 21%);
+  height: 100vh;
+}
+
+.bodycss {
+  margin: "0";
+  position: "absolute";
+  top: "50%";
+  -ms-transform: "translateY(-50%)";
+  transform: "translateY(-50%)";
+
+}
